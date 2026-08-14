@@ -1,3 +1,4 @@
 ﻿iae\
 de novo\
-agora foi
+agora foi\
+testando o comando fetch
